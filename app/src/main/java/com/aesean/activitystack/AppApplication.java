@@ -24,13 +24,6 @@ import com.aesean.activitystack.utils.LifecycleUtils;
 import com.aesean.activitystack.utils.ThreadMonitor;
 import com.aesean.activitystack.utils.shake.ShakeManager;
 
-/**
- * AppApplication
- *
- * @author xl
- * @version V1.0
- * @since 19/01/2017
- */
 public class AppApplication extends Application {
     @Override
     public void onCreate() {
